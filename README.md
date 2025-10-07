@@ -1,2 +1,2 @@
 Code for a question i was asked, that almost worked but threw errors because of a very silly mistake
-Should've checked the templates better to make sure it's called a template and not a function in the init.py file
+Should've checked the templates better to make sure it's called a template and not a function in the init.py file 
